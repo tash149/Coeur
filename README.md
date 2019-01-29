@@ -1,4 +1,4 @@
-# heartx
+# Coeur :heart:
 
 A new Flutter application.
 

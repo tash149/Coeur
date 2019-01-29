@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "396215905372",
+    "firebase_url": "https://coeur-c68ff.firebaseio.com",
+    "project_id": "coeur-c68ff",
+    "storage_bucket": "coeur-c68ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396215905372:android:e3b052da6aa84cb9",
+        "android_client_info": {
+          "package_name": "com.example.heartx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396215905372-fi9lcohj36nhsb96uetosfpt57lpi693.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heartx",
+            "certificate_hash": "0477bfffd7c7339448423f41f3bb9f0c77a31b89"
+          }
+        },
+        {
+          "client_id": "396215905372-phkgjmbta5shjog2mdt4immuqqnhhq8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO3rYva_5CIKHvNoQwivbrpOqiCFwQPa4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396215905372-phkgjmbta5shjog2mdt4immuqqnhhq8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
